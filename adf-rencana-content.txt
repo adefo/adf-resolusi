@@ -2,6 +2,7 @@ RENCANa KONTEN ADF
 
 -Javascript
   ^Framewrok vue
+  ^Framework React
 - PHP Framework
   ^Laravel
 - Ingin Belajar membuat aplikasi android
