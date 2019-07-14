@@ -1,7 +1,10 @@
 RENCANa KONTEN ADF
 
 -Javascript
+  ^Framewrok vue
 - PHP Framework
+  ^Laravel
 - Ingin Belajar membuat aplikasi android
 - Interview
 -Vlog
+-Pyhton
