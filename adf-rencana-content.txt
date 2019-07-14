@@ -1,7 +1,9 @@
 RENCANa KONTEN ADF
 
 -Javascript
+  ^Framework angular
+  ^Framework React
 - PHP Framework
-- Ingin Belajar membuat aplikasi android
+  ^Laravel
 - Interview
 -Vlog
