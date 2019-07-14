@@ -2,5 +2,6 @@ RENCANa KONTEN ADF
 
 -Javascript
 - PHP Framework
+- Ingin Belajar membuat aplikasi android
 - Interview
 -Vlog
